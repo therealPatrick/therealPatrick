@@ -1,5 +1,5 @@
 Hello👋...I'm Patrick a Software Engineer specializing in Full-Stack web dev 
 
-**JavaScript(React js, Node Js) , python(Django) , C++ ,C# **
+**JavaScript(Next JS) , python(Django) , C++ ,C# **
 
 
